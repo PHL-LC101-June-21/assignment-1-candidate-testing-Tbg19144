@@ -1,8 +1,3 @@
-const quiz = require('./candidate-testing');
-
-quiz.runProgram();
-
-
 // hope this works for you. I think I deleted something from the original. But I have played with this several times without issue. So fingers crossed it works for you!!! 
 
 const input=require('readline-sync')
